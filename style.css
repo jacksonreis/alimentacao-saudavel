@@ -69,6 +69,7 @@ section {
 
 main h2 {
     font-family: var(--font-serif);
+    letter-spacing: 1px;
 }
 
 main p {
