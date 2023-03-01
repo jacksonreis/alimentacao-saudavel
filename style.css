@@ -84,3 +84,7 @@ main p, li {
 main ul {
     list-style-position: inside;
 }
+
+#piramide-alimentar {
+    width: 100%;
+}
