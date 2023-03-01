@@ -45,6 +45,8 @@ header h1 {
 }
 
 #informaões-top p {
+    font-family: var(--font-padrao);
+    font-weight: 400;
     padding-left: 15px;
 }
 
@@ -62,7 +64,7 @@ section {
     padding: 15px;
 }
 
-p {
+main p {
     font-family: var(--font-padrao);
     font-weight: 400;
     margin: 15px 0px;
