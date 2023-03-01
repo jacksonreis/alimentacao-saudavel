@@ -44,7 +44,7 @@ header h1 {
 #informaões-top {
     color: var(--cor-black);
     max-width: 850px;
-    margin: 0px auto 20px auto;
+    margin: 0px auto 25px auto;
 }
 
 #informaões-top p {
@@ -64,7 +64,7 @@ main {
 }
 
 section {
-    padding: 15px;
+    padding: 0px 15px 10px 15px;
 }
 
 main h2 {
@@ -75,5 +75,6 @@ main h2 {
 main p {
     font-family: var(--font-padrao);
     font-weight: 400;
+    text-align: justify;
     margin: 15px 0px;
 }
