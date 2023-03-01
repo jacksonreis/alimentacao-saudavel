@@ -80,3 +80,7 @@ main p, li {
     text-align: justify;
     margin: 15px 0px;
 }
+
+main ul {
+    list-style-position: inside;
+}
