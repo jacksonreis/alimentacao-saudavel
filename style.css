@@ -27,10 +27,9 @@ header {
 header h1 {
     color: var(--cor-white);
     font-family: var(--font-padrao);
-    font-size: 40px;
+    font-size: 38px;
     text-shadow: 0px 2px 5px #0000005d;
     font-weight: 700;
-    max-width: 431px;
 
     position: absolute;
     top: 50%;
