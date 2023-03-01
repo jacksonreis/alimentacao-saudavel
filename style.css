@@ -65,4 +65,5 @@ section {
 p {
     font-family: var(--font-padrao);
     font-weight: 400;
+    margin: 15px 0px;
 }
