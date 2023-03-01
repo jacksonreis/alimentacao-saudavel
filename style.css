@@ -45,6 +45,9 @@ header h1 {
 main {
     max-width: 850px;
     margin: auto;
+}
+
+section {
     padding: 20px;
 }
 
