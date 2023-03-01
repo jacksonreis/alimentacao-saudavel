@@ -18,7 +18,7 @@ header {
     background-color: #0dd492;
     height: 150px;
     max-width: 850px;
-    margin: auto;
+    margin: 0px auto 30px auto;
     text-align: center;
 
     position: relative;
@@ -35,4 +35,19 @@ header h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+#informaões-top {
+    max-width: 850px;
+    margin: 0px auto 30px auto;
+}
+
+main {
+    max-width: 850px;
+    margin: auto;
+}
+
+p {
+    font-family: var(--font-padrao);
+    font-weight: 400;
 }
