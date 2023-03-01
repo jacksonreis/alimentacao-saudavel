@@ -6,8 +6,8 @@
     --font-padrao: 'DM Sans', sans-serif;
 
     --cor-white: white;
-    --cor-green-1: hsl(160, 88%, 44%);
-    --cor-black: #252525;
+    --cor-green-1: #0dd391;
+    --cor-black: #353535;
 }
 
 * {
@@ -16,7 +16,7 @@
 }
 
 header {
-    background-color: #0dd492;
+    background-image: linear-gradient(to top, #0dd391, #43dfab);
     height: 150px;
     max-width: 850px;
     margin: 0px auto 30px auto;
