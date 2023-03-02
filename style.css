@@ -77,7 +77,7 @@ main h2 {
 
 main p {
     font-family: var(--font-padrao);
-    font-size: 1.1em;
+
     font-weight: 400;
     text-align: justify;
     margin: 0px 0px 20px 0px;
