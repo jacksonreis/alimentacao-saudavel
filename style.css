@@ -65,14 +65,14 @@ main {
 
 section {
     padding: 0px 15px 0px 15px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 main h2 {
     font-family: var(--font-padrao);
     font-size: 1.5em;
     letter-spacing: -0.5px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 main p {
@@ -100,17 +100,18 @@ main ul {
 }
 
 .container-img {
-    width: 100%;
+    max-width: 700px;
+    margin: auto;
 }
 
 aside {
-    max-width: 650px;
+    width: 90%;
     margin: auto;
 }
 
 aside p {
-    font-size: 0.9em;
-    margin-top: -9px;
+    font-size: 0.8em;
+    margin-top: -3px;
     color: #808080;
     font-style: italic;
 }
