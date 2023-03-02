@@ -63,6 +63,11 @@ main {
     margin: auto;
 }
 
+#img-capa {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
 section {
     padding: 0px 15px 0px 15px;
     margin-bottom: 40px;
