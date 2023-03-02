@@ -77,7 +77,6 @@ main h2 {
 
 main p {
     font-family: var(--font-padrao);
-
     font-weight: 400;
     text-align: justify;
     margin: 0px 0px 20px 0px;
@@ -110,7 +109,7 @@ aside {
 }
 
 aside p {
-    font-size: 1em;
+    font-size: 0.9em;
     margin-top: -9px;
     color: #808080;
     font-style: italic;
