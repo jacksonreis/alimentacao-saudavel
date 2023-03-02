@@ -10,7 +10,7 @@
 
     --cor-white: white;
     --cor-green-1: #0dd391;
-    --cor-black: #424242;
+    --cor-black: #646464;
 }
 
 * {
@@ -65,7 +65,7 @@ main {
 
 #img-capa {
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 section {
@@ -82,7 +82,7 @@ main h2 {
 
 main p {
     font-family: var(--font-padrao);
-    font-weight: 400;
+    font-weight: lighter;
     text-align: justify;
     margin: 0px 0px 20px 0px;
 }
