@@ -144,6 +144,24 @@ aside p {
 }
 
 footer {
+    font-family: var(--font-padrao);
     background-color: #f9f9ff;
     height: 100px;
+    margin-top: 100px;
+}
+
+footer div {
+    padding-top: 25px;
+    padding-left: 15px;
+    max-width: 850px;
+    margin: auto;
+}
+
+footer p {
+    margin-bottom: 10px;
+}
+
+footer a {
+    color: #f80032;
+    font-weight: bold;
 }
