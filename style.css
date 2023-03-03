@@ -98,6 +98,28 @@ main ul {
     list-style-position: inside;
 }
 
+.frase-alimentação {
+    display: flex;
+    max-width: 850px;
+    padding: 0px 0px 0px 15px;
+    margin-bottom: 40px;
+}
+
+.frase-alimentação p {
+    color: #808080;
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.retangulo-left {
+    background-color: var(--cor-green-1);
+    width: 6px;
+    height: 50px;
+}
+
 #piramide-alimentar {
     display: block;
     max-width: 100%;
