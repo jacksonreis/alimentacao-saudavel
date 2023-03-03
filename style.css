@@ -142,3 +142,8 @@ aside p {
     color: #808080;
     font-style: italic;
 }
+
+footer {
+    background-color: #f9f9ff;
+    height: 100px;
+}
